@@ -1,0 +1,27 @@
+{
+  "fields": [
+    {
+      "component": "text",
+      "label": "First Name",
+      "type": "text",
+      "_uid": "1",
+      "active": false
+    },
+    {
+      "component": "select",
+      "label": "Last Name",
+      "type": "select",
+      "options": ["Opción 1", "Opción 2", "Opción 3"],
+      "_uid": "2",
+      "active": false
+    },
+    {
+      "component": "radio",
+      "label": "Occupation",
+      "type": "radio",
+      "options": ["Opción 1", "Opción 2", "Opción 3"],
+      "_uid": "3",
+      "active": false
+    }
+  ]
+}
